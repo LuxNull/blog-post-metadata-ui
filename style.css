@@ -1,0 +1,54 @@
+body{
+    background: #004D40;
+}
+
+.foater{
+  display: block;
+  color: gray;
+  font-size: 25px;
+  margin: 70px;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    margin-left: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    float: left;
+    padding: 50px;
+    margin-left: 20px;
+}
+
+.feature{
+    color:grey;
+
+}
+
+.description{
+    display: block;
+    color: white;
+    font-size: 20px;
+
+}
+
+.vnus{
+    margin-top: 100px;
+}
+
+.vpravo{
+    margin-top: -40px;
+    margin-left: 350px;
+}
+
+.vpravo2{
+    margin-top: -40px;
+    margin-left: 520px;
+}
+
+.vpravo3{
+    margin-top: -40px;
+    margin-left: 670px;
+}
